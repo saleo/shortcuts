@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "assets",
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
